@@ -1,4 +1,4 @@
-Here are **clear, interview-ready answers** for your **Core OOP & JavaScript Concepts** questions (medium → advanced level). I’ve kept explanations concise but deep, with examples where they add value.
+**Core OOP & JavaScript Concepts** questions (medium → advanced level).
 
 ---
 
@@ -297,19 +297,6 @@ function createCounter() {
 - Dynamic typing → flexibility + runtime validation
 - Getters/setters → controlled access
 - `#private` fields → true encapsulation
-
----
-
-If you want, next I can give you:
-
-- **Tricky JS OOP interview questions**
-- **TypeScript vs JS OOP comparison**
-- **OOP pitfalls in React/Node.js**
-- **Machine-coding OOP problems**
-
-Just tell me 👍
-
-Here are **interview-ready, medium → advanced answers** for **Core OOP & JavaScript Concepts (6–10)** with clear explanations and practical examples.
 
 ---
 
@@ -630,19 +617,6 @@ console.log(query);
 
 ---
 
-If you want next, I can give you:
-
-- **OOP pitfalls in JS interviews**
-- **TypeScript OOP interview comparison**
-- **Machine-coding OOP problems**
-- **React + OOP interview traps**
-
-Just say the word 🚀
-
-Below are **interview-ready, medium → advanced answers** with **clean explanations + practical JS examples** for **Design Patterns & Architecture (11–13)**.
-
----
-
 ## **11. Explain the Builder Pattern and implement a simple object builder in JS**
 
 ### **What is the Builder Pattern?**
@@ -902,19 +876,6 @@ console.log(order.status()); // Delivered
 | Builder   | Clean object construction |
 | Prototype | Efficient cloning         |
 | State     | Behavior based on state   |
-
----
-
-If you want next, I can cover:
-
-- **Adapter vs Facade vs Proxy**
-- **CQRS & Event Sourcing in JS**
-- **OOP vs Functional Architecture**
-- **System design patterns used in MERN**
-
-Just tell me 🚀
-
-Below are **interview-ready, medium → advanced explanations with clean JS implementations** for **Design Patterns & Architecture (14–17)**. These are **very commonly asked in senior MERN / JS interviews**.
 
 ---
 
@@ -1209,19 +1170,6 @@ eventBus.publish("PAYMENT_SUCCESS", { amount: 500 });
 
 ---
 
-If you want next, I can cover:
-
-- **Facade vs Mediator vs Adapter**
-- **Proxy pattern (caching, auth)**
-- **CQRS & Event Sourcing**
-- **System-design patterns used in MERN apps**
-
-Just tell me 🚀
-
-Below are **clear, interview-ready explanations with clean JavaScript implementations** for **Questions 18–20**. These are **frequently asked in senior MERN / system-design-plus-OOP interviews**.
-
----
-
 ## **18. Facade Pattern – Simplifying a Complex Library API**
 
 ### **What is the Facade Pattern?**
@@ -1494,19 +1442,6 @@ console.log(sorter.sort([5, 4, 6]));
 
 ---
 
-If you want, next I can cover:
-
-- **Proxy pattern (caching, auth, lazy loading)**
-- **Decorator vs Facade (very common confusion)**
-- **How these patterns appear in React & Node.js**
-- **Real interview system-design + OOP hybrid questions**
-
-Just say the word 🚀
-
-Below are **senior-level, scenario-based OOP answers with clean JavaScript designs**. These map directly to **system-design + OOP interviews** (very common for MERN roles).
-
----
-
 ## **21. File System Hierarchy (Folders, Files, Permissions) – OOP Design**
 
 ### **Requirements**
@@ -1766,19 +1701,6 @@ leaderboard.updateScore(2, 70);
 
 ---
 
-If you want next, I can:
-
-- Convert these into **whiteboard interview answers**
-- Add **Redis + WebSocket system design**
-- Create **mock interview Q&A**
-- Map these designs to **Node.js + Express + Socket.IO**
-
-Just tell me 👍
-
-Below are **senior-level, interview-ready OOP designs with clean JavaScript examples** for **Questions 23–24**. These are very common **system-design + OOP hybrid questions**.
-
----
-
 ## **23. Task Management System with Task Dependencies (OOP Design)**
 
 ### **Requirements**
@@ -2034,19 +1956,6 @@ history.redo(); // adds Square again
 
 ---
 
-If you want next, I can:
-
-- Add **cycle detection** in task dependencies
-- Show **real React + Canvas integration**
-- Convert these to **whiteboard answers**
-- Map undo/redo to **Redux pattern**
-
-Just tell me 🚀
-
-Below are **senior-level, scenario-based OOP answers with clean JavaScript designs**. These questions are **very common in system design + OOP interviews** for MERN / backend-heavy roles.
-
----
-
 ## **25. Notification Dispatcher with Multiple Channels & Fallback**
 
 ### **Problem**
@@ -2267,19 +2176,6 @@ console.log(app.context.routes);
 - Notification dispatcher → Kafka / SQS
 - Plugin system → dynamic imports, feature flags
 - Observability → plugin lifecycle hooks
-
----
-
-If you want next, I can:
-
-- Turn these into **whiteboard answers**
-- Show **real Node.js production architecture**
-- Map plugin system to **Express / NestJS**
-- Create **mock interview follow-up Q&A**
-
-Just say 👍
-
-Below are **senior-level, interview-ready OOP designs with clean JavaScript implementations** for **Questions 27–28**. These directly map to **Node.js system design + OOP interviews**.
 
 ---
 
@@ -2535,19 +2431,6 @@ pool.release(conn2);
 - DB → PostgreSQL / MongoDB
 - Pool → node-pg / mongoose pool
 - Metrics → cache hit ratio
-
----
-
-If you want, next I can:
-
-- Add **TTL + eviction policies**
-- Show **Redis + Node.js real code**
-- Convert this into **whiteboard answers**
-- Add **race condition handling**
-
-Just say 🚀
-
-Below are **senior-level OOP designs with real JavaScript examples**, written the way you’d explain them in **system design + OOP interviews**.
 
 ---
 
@@ -2814,12 +2697,3 @@ console.log(user.hasPermission("DELETE")); // false
   “Users aggregate roles, roles aggregate permissions — clean, scalable, and dynamic.”
 
 ---
-
-If you want next:
-
-- 🔥 **Policy-based access control (ABAC)**
-- 🧪 **Unit test strategies**
-- 🧱 **Enterprise-grade RBAC with caching**
-- 🎯 **System design diagram explanation**
-
-Just say the word 🚀
