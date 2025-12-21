@@ -1,19 +1,11 @@
-Below is a **clean, structured rewrite of MySQL notes**, written with the exact purpose you mentioned:
+Below is a **structured MySQL notes**, written with the exact purpose:
 
 - Easy **revision in the future**
-- Simple enough to **share with beginners**
 - Clear **real-world examples & use cases**
-- Ready to be used directly as **video content or script**
 
 ---
 
 # MySQL Notes (Beginner to Practical Level)
-
-> **Purpose of these notes**
->
-> - Quick revision before interviews or projects
-> - Teaching MySQL with real examples and use cases
-> - Converting notes directly into tutorial videos
 
 ---
 
@@ -474,12 +466,6 @@ JOIN sql_invoicing.payment_methods pm
 ---
 
 # MySQL Notes – Advanced Joins & Data Manipulation
-
-> **Purpose of these notes**
->
-> - Quick revision before interviews or real projects
-> - Teaching MySQL concepts with real-world examples
-> - Ready-to-use content for recording videos or tutorials
 
 ---
 
